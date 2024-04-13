@@ -1,4 +1,4 @@
-""" Assumptions: there re 10 data points for every sample in the group. the independence assumption across the samples is assumed, as is important for anova.
+""" Assumptions: there are 10 data points for every sample in the group. the independence assumption across the samples is assumed, as is important for anova.
     two normality tests have been tried on for every sample, although with 10 data points we have sample complexity issues???
     tests for homoskesdasticity of data haven't been performed either, but should be done for anova
 
